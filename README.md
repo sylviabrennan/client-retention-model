@@ -110,11 +110,6 @@ client-retention-model/
 
 ---
 
-## Data Disclaimer
-This dataset is synthetically generated for demonstration and does not contain real client information.
-
----
-
 ## Project Lead
 **Sylvia Brennan** - Founder & Lead Data Analyst  
 **LinkedIn:** [linkedin.com/in/sylvia-brennan](https://linkedin.com/in/sylvia-brennan)  
